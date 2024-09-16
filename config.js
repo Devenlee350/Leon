@@ -3,8 +3,8 @@ module.exports = {
   ADMINS: process.env['ADMINS'] || false,
   DATABASE_URL: process.env['DATABASE_URL'] || 'leon.db',
   DEBUG: process.env['DEBUG'] || false,
-  MODE: process.env['MODE'] || 'private',
-  PREFIX: process.env['PREFIX'] || '!',
+  MODE: process.env['MODE'] || 'public',
+  PREFIX: process.env['PREFIX'] || '.',
   PLATFORM: process.env['PLATFORM'] || 'heroku',
   RBG_APIKEY: process.env['RBG_APIKEY'] || false,
 };

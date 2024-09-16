@@ -24,14 +24,14 @@ const centerText = text => {
 
 let heading = `
 ${centerText('======================================')}
-${centerText('Leon Installation')}
+${centerText('𝙽𝙾𝚅𝙰 Installation')}
 ${centerText('======================================')}
 `;
 
 let infoBox = `
 ${centerText('┌─────────────────────────────────────────────┐')}
 ${centerText('│ Version: 2.0.0                              │')}
-${centerText('│ Channel: https://t.me/leonwabot             │')}
+${centerText('│ Channel: https://whatsapp.com/channel/0029VafbajGDuMRoRlel7k1p             │')}
 ${centerText('└─────────────────────────────────────────────┘')}
 `;
 
